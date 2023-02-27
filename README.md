@@ -1,7 +1,7 @@
 # Project Goals
 
 1. Time Series Prediction - ARIMA & relavant models
-2. Feature Engineer for bitcoin trading
+2. Feature Engineer for bitcoin trading (https://www.kaggle.com/code/shtrausslearning/building-an-asset-trading-strategy)
 
 This project is proposed to do some experimental analysis on blockchain datasets that could be publicly queried from BigQuery of Google
 
