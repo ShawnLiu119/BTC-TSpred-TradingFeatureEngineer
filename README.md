@@ -1,4 +1,4 @@
-# BTCPred-ARIMA-RNN
+# BTC Time Series Prediction - ARIMA & relavant models
 
 This project is proposed to do some experimental analysis on blockchain datasets that could be publicly queried from BigQuery of Google
 
